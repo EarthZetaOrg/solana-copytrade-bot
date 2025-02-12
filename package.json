@@ -1,5 +1,6 @@
 {
-  "name": "wallet-tracking-bot",
+  "name": "solana-copytrading-bot",
+  "author": "Earthzeta",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +9,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "@metaplex-foundation/js": "^0.20.1",
