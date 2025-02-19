@@ -1,15 +1,24 @@
 {
-  "name": "solana-copytrading-bot",
+  "name": "solana-copy-trading-bot",
+  "type": "module",
   "author": "Earthzeta",
   "version": "1.0.0",
-  "description": "",
+  "description": "Solana Copy Trading Bot",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["solana", "copy trading", "bot"],
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/earthzeta/solana-copy-trading-bot"
+  },
+  "homepage": "https://github.com/earthzeta/solana-copy-trading-bot",
+  "bugs": {
+    "url": "https://github.com/earthzeta/solana-copy-trading-bot/issues"
+  },
   "dependencies": {
     "@metaplex-foundation/js": "^0.20.1",
     "@solana/spl-token": "^0.4.8",
